@@ -1,7 +1,7 @@
 # JSON_assignment
 Assignment.
 
-1. create file named <yourFirstName>.json 
+1. create file named yourFirstName.json 
 2. inside that file, create a JSON string that describes yourself. Include:
     a. firstName
     b. lastName
